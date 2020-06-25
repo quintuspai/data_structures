@@ -1,4 +1,3 @@
-import math
 import sys
 def minCostPath(dist, path):
     min = sys.maxsize
